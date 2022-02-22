@@ -19,7 +19,7 @@ List of components you need:
 
 Schematics:
 
-![Schematics]("https://github.com/Bildcraft1/Arduino-Midi-Controller/raw/main/.assets/Fabulous%20Jofo.png")
+![Schematics](https://github.com/Bildcraft1/Arduino-Midi-Controller/raw/main/.assets/Fabulous%20Jofo.png)
 
 ## How to connect to PC
 
@@ -29,6 +29,6 @@ First is [Hairless MIDI Bridge]("http://projectgus.github.io/hairless-midiserial
 
 For Hairless set up like this:
 
-![Hairless]("https://github.com/Bildcraft1/Arduino-Midi-Controller/raw/main/.assets/Hairless.png")
+![Hairless](https://github.com/Bildcraft1/Arduino-Midi-Controller/raw/main/.assets/Hairless.png)
 
 then on your daw set the Loopbe1 MIDI bridge as a MIDI Controller and you'r done
